@@ -1,0 +1,4 @@
+GET http://localhost:3000/characters
+
+###
+GET http://localhost:3000/character/2
